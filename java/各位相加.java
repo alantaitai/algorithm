@@ -27,7 +27,7 @@ public class 各位相加 {
             total += num% MAX_SIGLE_NUMBER;
             num/=10;
             total += addDigits(num);
-            //我是
+            //我是最新的
         }
 
         return total;
