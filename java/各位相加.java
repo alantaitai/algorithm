@@ -27,6 +27,7 @@ public class 各位相加 {
             total += num% MAX_SIGLE_NUMBER;
             num/=10;
             total += addDigits(num);
+            //我
         }
 
         return total;
